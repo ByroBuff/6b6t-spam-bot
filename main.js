@@ -57,6 +57,7 @@ class MCBot {
     }
 
     createMessage() {
+        // Example message function
         let x = Math.floor(Math.random() * 30000000);
         let z = Math.floor(Math.random() * 30000000);
         let baseNum = Math.floor(Math.random() * 283);
