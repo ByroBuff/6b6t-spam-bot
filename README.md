@@ -20,3 +20,6 @@ This is a spam bot built for the 6b6t minecraft anarchy server
  - Run the command `npm i mineflayer`
  - open `config.json` and configure the bot however you like
  - Run the bot with the command `node main.js`
+
+## Note
+This spam bot was created by me and me only but I don't really care if you use bits of the code to make your own or do something else with it so there is no license.
