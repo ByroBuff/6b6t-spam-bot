@@ -1,0 +1,28 @@
+{
+    "usernames": [
+        "username1",
+        "username2"
+    ],
+    "passwords": [
+        "password1",
+        "password2"
+    ],
+    "messages defaults to createEmpty method if empty": true,
+    "messages": [
+        
+    ],
+    "players to exclude from spam": true,
+    "blacklist": [
+        "ByroBuff",
+        "qbasty",
+        "pistonmaster"
+    ],
+    "whitelist takes priority over blacklist": true,
+    "players to spam": true,
+    "whitelist": [
+        
+    ],
+
+    "Delay in seconds between messages": true,
+    "delay": 1
+}
